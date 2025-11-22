@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/dashboard/layout,_N_T_/dashboard/browse-courses/layout,_N_T_/dashboard/browse-courses/page,_N_T_/dashboard/browse-courses"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/dashboard/browse-courses/__PAGE__",
+    "/dashboard/browse-courses",
+    "/dashboard",
+    "/_index",
+    "/_head"
+  ]
+}
